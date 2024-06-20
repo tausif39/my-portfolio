@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This is a showcase of my work, skills, and experience. Feel free to explore and learn more about me.
 
-**Live Demo:** [View Demo](https://shaikahmadnawaz.vercel.app/)
+**Live Demo:** [View Demo](https://tausiful.vercel.app/)
 
 ## Table of Contents
 
