@@ -46,7 +46,7 @@ const projects = [
       "#MongoDB",
       "#Mongoose",
     ],
-    liveUrl: "https://realtime-code-editor-tausif.vercel.app/",
+    liveUrl: "https://tausifhaq.vercel.app/",
     codeUrl: "https://github.com/tausif39/my-portfolio",
   },
   {
